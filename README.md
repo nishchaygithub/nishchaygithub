@@ -8,7 +8,7 @@
 
 🌟 My goal is to become a proficient software developer and contribute to innovative projects that make a positive impact. I'm particularly interested in [mention any specific areas or technologies you're interested in].
 
-📫 Feel free to reach out to me via : Instagram - [@nishchaygithub] or mail me [nixhchay@gmail.com],I'm always open to connecting with fellow programmers,developers and enthusiasts.
+📫 Feel free to reach out to me via : Instagram - [@nishchaygithub] or mail me [nishchaygithub@gmail.com],I'm always open to connecting with fellow programmers,developers and enthusiasts.
 
 🌐 Learn more about me and explore my projects on my website: [UnderDevlopment].
 
