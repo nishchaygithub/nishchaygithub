@@ -1,4 +1,4 @@
- 👋 Hello, I'm [Your Name]!
+ 👋 Hello, I'm Nishchay!
 
 🎓 I'm a student at CDGI Indore, currently focusing on learning C and C++ programming languages. I'm passionate about coding and enjoy exploring various concepts and techniques.
 
